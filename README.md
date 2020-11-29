@@ -7,11 +7,11 @@
 
 - I’m currently learning **Django**
 
-- Ask me about **GWT , SQL , Android Development**
+- Ask me about **GWT , HTML , SQL , Android Development**
 
 - How to reach me **galaxygamingprox@gmail.com**
 
-- Fun fact **I'm quite good at FPS and racing games , LeaderBoard player**
+- Fun fact **I'm quite good at FPS and racing games , leaderboard and some esports experience**
 
 
 <h3 align="left">Languages and Tools I use:</h3>
