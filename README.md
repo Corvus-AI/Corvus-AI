@@ -3,9 +3,9 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corvus-ai&theme=onedark" alt="corvus-ai" /></a> </p>
 
-- I’m currently working on **Face Recognition using CNN**
+- I’m currently working on **Face Recognition using CNN** <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 
-- I’m currently learning **Django** <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
+- I’m currently learning **Django** 
 
 - Ask me about **GWT , SQL , Android Development**
 
