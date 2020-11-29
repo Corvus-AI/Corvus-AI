@@ -5,7 +5,7 @@
 
 - I’m currently working on **Face Recognition using CNN**
 
-- I’m currently learning **Django**
+- I’m currently learning **Django** <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 
 - Ask me about **GWT , SQL , Android Development**
 
