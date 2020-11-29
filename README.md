@@ -17,4 +17,4 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corvus-ai&title=Commit,Repositories,Followers&theme=onedark" alt="corvus-ai" /></a> </p>
+<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corvus-ai&title=Commit,Repositories,Followers,Issues&theme=onedark" alt="corvus-ai" /></a> </p>
