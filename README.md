@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shagun Bera</h1>
 <h3 align="center">A passionate developer , I excel in making things exactly as required .</h3>
 
-- I’m currently working on **Face Recognition using CNN** <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300px" />
+- I’m currently working on a **Django Project** <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300px" />
 
 - I’m currently learning **Django** 
 
